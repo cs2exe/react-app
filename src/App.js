@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import {Component, useState} from 'react';
 
-// 단축키 Ctrl + P : 파일 열기
+
 
 class ClassComp extends Component {
   constructor(props) {
